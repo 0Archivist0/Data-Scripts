@@ -1,3 +1,7 @@
+# AUTHOR: Kris Tomplait
+# This script was wrote by me, so what could go wrong? Use at your own risk.
+
+
 import logging
 import importlib.util
 import subprocess
